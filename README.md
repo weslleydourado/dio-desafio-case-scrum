@@ -1,3 +1,5 @@
+# 🎯 Desafio 1 - Resenha Crítica
+
 <h1 align="center"> Análise Crítica da Aplicação <a href="https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-European.pdf" title="Scrum Guide">Scrum</a>: Uma História de Sucesso da Swedbank. </h1>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/prática_Scrum-estudo_de_caso-orange">
@@ -38,6 +40,14 @@ Aqui é possível acessar a **[resenha](Files/Resenha-Um_caso_de_sucesso-Swedban
 ## 🔗 Links úteis
 [<img alt="Static Badge" src="https://img.shields.io/badge/Read-Success Stories_Case-blue">](https://www.agile42.com/en/success-stories/success-story-swedbank)
 [<img alt="Static Badge" src="https://img.shields.io/badge/Download-Success Stories_Case-blue">](https://www.agile42.com/wp-content/uploads/media/cms_page_media/2912/agile42-swedbank.pdf?_ga=2.198889191.954764074.1502098695-1253966425.1484558569)
+
+
+# 🎯 Desafio 2 - Template do Framework SCRUM (Miro)
+<img alt="Static Badge" src="https://img.shields.io/badge/desafio-concluído-gree">
+<img alt="Static Badge" src="https://img.shields.io/badge/app-miro_web-yellow">
+
+## 📝 Acesso ao documento
+Aqui é possível acessar a **[Template](https://miro.com/app/board/uXjVKH6zixE=/?share_link_id=451842680741)** completo disponível no miro.
 
 ## 📜 Licença
 > Creative Commons Zero v1.0 Universal  - CC0-1.0 license
