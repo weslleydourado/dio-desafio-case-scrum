@@ -8,7 +8,7 @@
 ![Framework Scrum!](/images/scrumorg-scrum-framework-2020.png "Framework Scrum")
 
 ## Contextualização
-#### Desafios de Projeto DIO
+#### Desafio de Projeto DIO
 <p style="text-align:justify">
 Neste Desafio você terá contato com alguns cases incríveis, os quais reforçar a aplicabilidade e os benefícios da gestão ágil com Scrum. Ao final da jornada, você terá que elaborar uma resenha crítica sobre um case de sucesso de sua escolha envolvendo o Scrum, abordando.
 
@@ -46,8 +46,17 @@ Aqui é possível acessar a **[resenha](Files/Resenha-Um_caso_de_sucesso-Swedban
 <img alt="Static Badge" src="https://img.shields.io/badge/desafio-concluído-gree">
 <img alt="Static Badge" src="https://img.shields.io/badge/app-miro_web-yellow">
 
+## Contextualização
+#### Desafio de Projeto DIO
+<p style="text-align:justify">
+Neste Desafio você assumirá o protagonismo e terá que completar o Framework Scrum. Ao final da jornada, você terá um material rico para estudo e compartilhamento com a comunidade. 
+
+Sendo assim, os seus objetivos neste Desafio de Projeto serão: fixar os pilares e valores do Scrum, bem como reforçar os aspectos fundamentais do Framework Scrum: Responsabilidades, Eventos e Artefatos. 
+</p>
+
 ## 📝 Acesso ao documento
 Aqui é possível acessar a **[Template](https://miro.com/app/board/uXjVKH6zixE=/?share_link_id=451842680741)** completo disponível no miro.
+
 
 ## 📜 Licença
 > Creative Commons Zero v1.0 Universal  - CC0-1.0 license
